@@ -1,6 +1,8 @@
 
 # Configuración Mikrotik
 
+jans sinarahua: jose mori el mejor dj del peru
+
 interface ethernet enable ether1
 
 /interface vlan add name=vlan50 vlan-id=50 interface=ether1
