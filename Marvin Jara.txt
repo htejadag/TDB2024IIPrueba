@@ -19,3 +19,14 @@ hola causas
 ⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⣿⣿⡇⠀⢹⣿⡆⠀⠀⠀⣸⣿⠇⠀⠀⠀ 
 ⠀⠀⠀⠀⠀⠀⠀⢿⣿⣦⣄⣀⣠⣴⣿⣿⠁⠀⠈⠻⣿⣿⣿⣿⡿⠏⠀⠀⠀⠀ 
 ⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⠿⠿⠿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Oscar Meneses Arirama
+En última instancia, independientemente 
+de la plataforma elegida, todas estas 
+herramientas juegan un papel esencial
+ en el mundo del desarrollo de software,
+ facilitando la innovación tecnológica y 
+ permitiendo a los equipos trabajar de manera
+ colaborativa para alcanzar sus objetivos en el
+ ámbito del desarrollo de software.
+
+
