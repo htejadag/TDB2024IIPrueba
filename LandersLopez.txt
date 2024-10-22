@@ -21,6 +21,7 @@ $result = $conn->query("SELECT * FROM empleado");
         </tr>
         <?php while($row = $result->fetch_assoc()): ?>
         <tr>
+Oscar Meneses Arirama
             <td><?php echo $row['id']; ?></td>
             <td><?php echo $row['nombre']; ?></td>
             <td><?php echo $row['edad']; ?></td>

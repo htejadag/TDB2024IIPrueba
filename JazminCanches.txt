@@ -5,7 +5,7 @@ con un proyecto de desarrollo de software. Puede ser
 considerado como una carpeta especializada que mantiene 
 un registro completo del historial de cambios realizados 
 en el código a lo largo del tiempo.
-
+Oscar Meneses Arirama
 Los repositorios son fundamentales en el uso de sistemas 
 de control de versiones, como Git, ya que permiten a los
  desarrolladores trabajar en equipo, realizar un seguimiento 
