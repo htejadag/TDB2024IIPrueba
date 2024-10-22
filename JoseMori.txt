@@ -8,6 +8,6 @@ interface ethernet enable ether1
 /interface vlan add name=vlan50 vlan-id=50 interface=ether1
 
 # /ip address add address=192.168.50.1/24 interface=vlan50
-
+Oscar Mesneses Arirama
 /interface bridge add name=bridge_vlan50
 /interface bridge port add interface=vlan50 bridge=bridge_vlan50
