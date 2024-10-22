@@ -4,6 +4,7 @@ $result = $conn->query("SELECT * FROM empleado");
 ?>
 ValeryCanches
 <!DOCTYPE html>
+ROMEL PAREDES MACEDO
 <html>
 <head>
     <title>Listado de Usuarios</title>
