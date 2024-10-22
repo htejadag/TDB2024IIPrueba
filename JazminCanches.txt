@@ -34,3 +34,5 @@ Problemas y seguimiento de incidencias: GitLab proporciona un sistema de seguimi
 Wikis y documentación: GitLab ofrece una funcionalidad wiki para documentar proyectos y colaborar en la creación de contenido.
 Gestión de permisos: proporciona un sistema de gestión de permisos que faculta a los administradores del proyecto controlar quién puede acceder y realizar cambios en los repositorios.
 Una diferencia importante entre GitHub y GitLab, es que GitLab también ofrece una versión de código abierto que se puede alojar en un servidor propio, lo que permite a los equipos tener un control más completo sobre sus datos y configuraciones. Además, GitLab incluye muchas funcionalidades avanzadas en su versión comunitaria, lo que la hace atractiva para organizaciones y equipos que buscan una solución completa y de código abierto para la gestión de proyectos de desarrollo de software.
+
+marvin estuvo aqui**

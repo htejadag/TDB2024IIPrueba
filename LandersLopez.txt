@@ -26,6 +26,7 @@ $result = $conn->query("SELECT * FROM empleado");
             <td><?php echo $row['edad']; ?></td>
             <td><?php echo $row['email']; ?></td>
             <td><?php echo $row['telefono']; ?></td>
+	    <td>caribeñito</td>
             <td>
                 <a href="editar.php?id=<?php echo $row['id']; ?>">Editar</a>
                 <a href="eliminar.php?id=<?php echo $row['id']; ?>">Eliminar</a>
