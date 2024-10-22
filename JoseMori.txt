@@ -9,6 +9,7 @@ interface ethernet enable ether1
 
 franklin
 
+Hello Brother. My name is Keny Landers Lopez Pezo 
 # /ip address add address=192.168.50.1/24 interface=vlan50
 Oscar Mesneses Arirama
 /interface bridge add name=bridge_vlan50

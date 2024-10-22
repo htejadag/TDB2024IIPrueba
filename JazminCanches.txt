@@ -16,6 +16,8 @@ anteriores del código.
 Qué es GitHub
 GitHub es una plataforma de alojamiento de código y una red social para desarrolladores y programadores. Permite a los usuarios colaborar en proyectos de software, compartir y revisar el código fuente, realizar un seguimiento de los cambios efectuados en el código y trabajar de manera colaborativa con otros desarrolladores.
 
+Hello Brother. My name is Keny Landers Lopez Pezo
+
 Características destacadas de GitHub
 Repositorios: los proyectos se almacenan en repositorios, que son espacios donde se guarda el código y la documentación de un proyecto en particular.
 Control de versiones: GitHub utiliza el sistema de control de versiones Git para rastrear y gestionar los cambios en el código fuente. Esto permite a los desarrolladores trabajar en diferentes ramas de desarrollo, fusionar cambios y revertir a versiones anteriores.
