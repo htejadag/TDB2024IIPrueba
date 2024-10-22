@@ -19,7 +19,12 @@ ValeryCanches
             <th>Teléfono</th>
             <th>Acciones</th>
         </tr>
+
+
         <?php while($row = $result->fetch_assoc()): ?>
+
+        kevin ruiz
+
         <tr>
             <td><?php echo $row['id']; ?></td>
             <td><?php echo $row['nombre']; ?></td>
