@@ -2,7 +2,7 @@
 include 'connection.php';
 $result = $conn->query("SELECT * FROM empleado");
 ?>
-
+ValeryCanches
 <!DOCTYPE html>
 <html>
 <head>
