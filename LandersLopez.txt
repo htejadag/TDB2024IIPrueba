@@ -2,7 +2,7 @@
 include 'connection.php';
 $result = $conn->query("SELECT * FROM empleado");
 ?>
-
+ValeryCanches
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,7 +19,12 @@ $result = $conn->query("SELECT * FROM empleado");
             <th>Teléfono</th>
             <th>Acciones</th>
         </tr>
+
+
         <?php while($row = $result->fetch_assoc()): ?>
+
+        kevin ruiz
+
         <tr>
 Oscar Meneses Arirama
             <td><?php echo $row['id']; ?></td>
